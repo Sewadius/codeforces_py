@@ -3,5 +3,6 @@
 <img src="img/splash.png" style="width:300px">
 
 ___  
+
 ##### "A" problems solved:   
-- 6A, 112A
+- 6A, 112A, 1872A, 1873A
